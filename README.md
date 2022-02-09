@@ -2,7 +2,7 @@
 
 [![Website](https://img.shields.io/website?color=5F2EEA&label=deathspacedesign.com&style=for-the-badge&url=https%3A%2F%2Fdeathspacedesign.com)](https://deathspacedesign.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/deathspace_?color=5F2EEA&logo=twitter&style=for-the-badge)](https://twitter.com/deathspace_)
-[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/deathspace_design?color=5F2EEA&label=Reddit%20u%2Fdeathspace_design&logo=reddit&logoColor=fff&style=for-the-badge)](https://www.reddit.com/user/deathspace_design)
+[![Reddit User Karma](https://img.shields.io/reddit/user-karma/combined/deathspace_design?color=5F2EEA&label=u%2Fdeathspace_design&logo=reddit&logoColor=fff&style=for-the-badge)](https://www.reddit.com/user/deathspace_design)
 
 
 ## I'm a front-end developer and UI/UX enthusiast!
