@@ -1,4 +1,4 @@
-# Hi there, I'm Hari - aka [DeathSpace](https://deathspacedesign.com/) 👋 
+# 👋 Hi there, I'm Hari (aka [DeathSpace](https://deathspacedesign.com/))
 
 [![Website](https://img.shields.io/website?color=5F2EEA&label=deathspacedesign.com&style=for-the-badge&url=https%3A%2F%2Fdeathspacedesign.com)](https://deathspacedesign.com/)
 [![Twitter Follow](https://img.shields.io/twitter/follow/deathspace_?color=5F2EEA&logo=twitter&style=for-the-badge)](https://twitter.com/deathspace_)
