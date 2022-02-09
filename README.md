@@ -4,9 +4,6 @@
 - 💞️ I’m looking to collaborate on anything cool!
 - 📫 How to reach me via email: deathspacedesign@gmail.com
 
-[![Hari's GitHub stats](https://github-readme-stats.vercel.app/api?username=hari8697)](https://github.com/anuraghazra/github-readme-stats)
-
-
 <details>
   <summary>Hari's GitHub Stats</summary>
 
