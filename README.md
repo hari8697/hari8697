@@ -1,4 +1,4 @@
-# Hi there, I'm Hari - aka [DeathSpace][https://www.deathspacedesign.com/] 👋 
+# Hi there, I'm Hari - aka [DeathSpace](https://www.deathspacedesign.com/) 👋 
 
 ## I'm a front-end developer and UI/UX enthusiast!
 - 👀 I’m interested in design, animations, and web3
