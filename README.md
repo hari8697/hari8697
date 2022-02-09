@@ -7,8 +7,7 @@
 <details>
   <summary>Hari's GitHub Stats</summary>
 
-  <img align="left" alt="Hari's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hari8697&hide=contribs&count_private=true&show_icons=true&theme=midnight-purple" />
-  <!-- <img align="left" alt="Hari's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hari8697&hide=contribs&count_private=true&show_icons=true&hide_border=false&theme=midnight-purple&title_color=5F2EEA&icon_color=5F2EEA&border_color=5F2EEA" /> -->
+  <img align="left" alt="Hari's GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hari8697&hide=contribs&count_private=true&show_icons=true&hide_border=false&theme=midnight-purple&title_color=5F2EEA&icon_color=5F2EEA&border_color=5F2EEA&bg_color=0E0C10" />
 
 </details>
 
