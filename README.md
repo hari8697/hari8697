@@ -6,9 +6,9 @@
 
 
 ## I'm a front-end developer and UI/UX enthusiast!
-- 👀 I’m interested in design, animations, and web3
-- 🌱 I’m currently learning typescript, DSA, and functional programming
-- 👯 I’m looking to collaborate on anything cool!
+- 👀 I’m interested in design, and interactive animations
+- 🌱 I’m currently learning the parry mechanics in Sekiro
+- 👯 I’m looking to collaborate on cool stuff!
 
 <details>
   <summary>:zap: GitHub Stats</summary>
